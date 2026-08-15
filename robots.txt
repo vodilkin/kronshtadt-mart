@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vodilkin.github.io/kronshtadt-mart/sitemap.xml
